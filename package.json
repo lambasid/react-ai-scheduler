@@ -4,13 +4,15 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "file-saver": "^2.0.5",
     "fullcalendar": "^6.1.15",
     "ics": "^3.8.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-fullcalendar": "^1.0.0",
     "react-scripts": "5.0.1",
-    "tesseract.js": "^6.0.0"
+    "tesseract.js": "^6.0.0",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
